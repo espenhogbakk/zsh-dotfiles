@@ -52,3 +52,5 @@ export LC_ALL=en_US.UTF-8
 # Set vim as default editor
 export EDITOR='vim'
 
+# Configure auto-complete of tmuxinator
+source ~/.bin/tmuxinator.zsh
