@@ -48,3 +48,7 @@ unsetopt correct_all
 
 # Set locale
 export LC_ALL=en_US.UTF-8
+
+# Set vim as default editor
+export EDITOR='vim'
+
